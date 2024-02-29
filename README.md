@@ -1,7 +1,7 @@
-<h1 align="center">Hello friend I´mJosue Reyes</h1>
+<h1 align="center">Hello mate I´m Josue Reyes</h1>
 <h3 align="center">I am DevOps engeenier In progress >></h3>
 
-- 🔭 I’m currently working on **Technical Support and Windows Server**
+- 🔭 Currently working on **Technical Support and Windows Server**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
